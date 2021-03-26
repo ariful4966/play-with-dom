@@ -1,4 +1,4 @@
 const headerElement = document.querySelector('#header')
-headerElement.addEventListener('mouseup',(event)=>{
+headerElement.addEventListener('mouseout',(event)=>{
     console.log(event);
 })
