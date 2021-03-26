@@ -5,7 +5,8 @@
 // }
 
 //GET ELEMENT BY className
-let items = document.getElementsByClassName('item'); 
+let itemUL = document.getElementById('items')
+let items = itemUL.getElementsByClassName('item'); 
 for(let i = 0; i< items.length; i++){
     items[i].style.color = 'red'
 }
