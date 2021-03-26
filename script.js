@@ -1,6 +1,9 @@
-const formElement = document.querySelector('form')
-const inputElement = document.querySelector('input[type="text"]')
-inputElement.addEventListener('keydown', (event) => {
-    // event.preventDefault();
-    console.log(event.target.value);
-})
+//select Element
+
+let newTask = document.querySelector('#new-task')
+let form = document.querySelector('form')
+let toUl = document.querySelector('#items')
+let completeUL = document.querySelector('.complete-list ul')
+
+
+
