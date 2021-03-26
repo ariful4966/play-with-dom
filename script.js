@@ -1,11 +1,6 @@
-// const  chiildrenOne = document.querySelector('.item')
-// // const parent = chiildren.parentElement;
-// // const grandparent = chiildren.closest('.todo-list')
-// const childrenTwo = chiildrenOne.nextElementSibling
-// childrenTwo.style.color = 'orange'
-// console.log(childrenTwo);
+ //Creacting an element
+ const divElement = document.createElement('div');
+ 
+ divElement.className = 'red'
 
-const  chiildrenTwo = document.querySelector('.item').nextElementSibling;
-console.log(chiildrenTwo);
-const childrenOne = chiildrenTwo.previousElementSibling;
-console.log(childrenOne);
+ console.log(divElement);
