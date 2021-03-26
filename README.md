@@ -26,3 +26,6 @@
 - [x] Create New Tag
 - [x] Insert class & attributes
 - [x] Set html file as append or appendChild
+
+##### Lesson 06
+
