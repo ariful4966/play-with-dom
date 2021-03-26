@@ -5,6 +5,4 @@
 // }
 
 //GET ELEMENT BY ID
-let headerElement = document.getElementById('header');
-console.dir(headerElement);
-headerElement.style.fontSize="50px "
+console.dir(document.getElementsByClassName('item')); 
