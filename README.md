@@ -17,3 +17,7 @@
 - [x] Style the selected elements
 
 ##### Lesson 04
+- [ ] Select Element(query) 
+- [ ] Select Parent Element by children method 
+- [ ] Select GrandParent Element by children method closest('')
+- [ ] Select Next or Previous Sibling
