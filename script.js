@@ -1,5 +1,8 @@
 // document.title = 'Play With DOM'
-console.log(document.images);
+// console.log(document.images);
 // for(let element of document.all){
 
 // }
+
+//GET ELEMENT BY ID
+console.log(document.getElementById('header'));
