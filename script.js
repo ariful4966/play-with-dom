@@ -9,7 +9,7 @@
 // let newTask = document.querySelector('#new-task')
 // console.log(newTask);
 
-let lastItem = document.querySelector('.item:nth-child(2)');
+let lastItem = document.querySelector('#items').querySelector('.item:nth-child(1)');
 lastItem.style.color = 'red'
 // console.log(lastItem); 
 // for(let element of lastItem){

@@ -8,3 +8,9 @@
 
 ##### Lesson 01
 ##### Lesson 02
+- [x] Id Selection (document)
+- [x] ClassName Selection(documnet)
+- [x] TagName Selection(documnet)
+- [x] Id Selection(query)
+- [x] Classname Selection(query & queryAll)
+- [x] Style the selected elements
