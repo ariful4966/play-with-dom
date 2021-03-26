@@ -5,4 +5,6 @@
 // }
 
 //GET ELEMENT BY ID
-console.log(document.getElementById('header'));
+let headerElement = document.getElementById('header');
+// headerElement.textContent= 'to-do-apps'
+headerElement.textContent= 'to-do-app'
