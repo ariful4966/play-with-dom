@@ -27,5 +27,8 @@
 - [x] Insert class & attributes
 - [x] Set html file as append or appendChild
 
-##### Lesson 06
-
+##### Lesson 06 (event)
+- [ ] click 
+- [ ] dblclick
+- [ ] mousedown
+- [ ] mouseup
