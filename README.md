@@ -44,3 +44,5 @@
 - [ ] paste
 - [ ] copy
 - [ ] input
+
+- [ ] event.target.value
