@@ -9,6 +9,10 @@
 // let newTask = document.querySelector('#new-task')
 // console.log(newTask);
 
-let lastItem = document.querySelector('.item:last-child');
-lastItem.style.color = 'red'
-console.log(lastItem);
+let lastItem = document.querySelectorAll('.item:last-child');
+// lastItem.style.color = 'red'
+// console.log(lastItem); 
+for(let element of lastItem){
+    element.style.color = 'red'
+}
+
