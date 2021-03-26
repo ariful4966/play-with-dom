@@ -6,5 +6,5 @@
 
 //GET ELEMENT BY ID
 let headerElement = document.getElementById('header');
-console.log(headerElement.textContent);
-console.log(headerElement.innerText);
+console.dir(headerElement);
+headerElement.style.fontSize="50px "
