@@ -4,9 +4,6 @@
 
 // }
 
-//GET ELEMENT BY className
-let itemUL = document.getElementById('items')
-let items = itemUL.getElementsByClassName('item'); 
-for(let i = 0; i< items.length; i++){
-    items[i].style.color = 'red'
-}
+//GET ELEMENT BY tagName
+let items = document.getElementsByTagName('img')
+console.log(items);
