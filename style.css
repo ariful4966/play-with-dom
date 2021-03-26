@@ -65,6 +65,6 @@ ul li {
 #update{
     background: #0000f7;
 }
-#delete{
+.delete{
     background: red
 }

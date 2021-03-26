@@ -5,3 +5,6 @@
 
 
 ## To Do Application
+- [ ] Added New Task
+- [ ] Complete Task to click checkbox
+- [ ] Delete Task
