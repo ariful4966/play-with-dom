@@ -4,6 +4,7 @@
 
 // }
 
-//GET ELEMENT BY tagName
-let items = document.getElementsByTagName('img')
-console.log(items);
+//GET ELEMENT BY Query Selector
+
+let header = document.querySelector('.header')
+console.log(header);
