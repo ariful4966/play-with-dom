@@ -1,4 +1,6 @@
+const formElement = document.querySelector('form')
 const inputElement = document.querySelector('input[type="text"]')
-inputElement.addEventListener('input', (event) => {
-    console.log(event);
+inputElement.addEventListener('keydown', (event) => {
+    // event.preventDefault();
+    console.log(event.target.value);
 })
