@@ -6,5 +6,9 @@
 
 //GET ELEMENT BY Query Selector
 
-let header = document.querySelector('.header')
-console.log(header);
+// let newTask = document.querySelector('#new-task')
+// console.log(newTask);
+
+let lastItem = document.querySelector('.item:last-child');
+lastItem.style.color = 'red'
+console.log(lastItem);
