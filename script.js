@@ -1,5 +1,5 @@
 const grandParent = document.querySelector('.todo-list')
-const parent = grandParent.children;
-const children = parent[1].children
+// const parent = grandParent.children;
+const children = grandParent.querySelectorAll('.item')
 
 console.log(children);
